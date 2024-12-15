@@ -5,13 +5,13 @@ Este repositorio presenta el desarrollo, análisis y validación de un brazo rob
 
 ---
 
-## 🚀 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 El objetivo principal de este proyecto fue desarrollar un brazo robótico económico y funcional para aplicaciones académicas y experimentales. El análisis de cinemática directa e inversa y la validación de errores permiten comprender las limitaciones de este tipo de robots.
 
 ---
 
-## 🛠️ Diagrama Cinemático del Brazo
+## Diagrama Cinemático del Brazo
 
 ![Diagrama Cinemático](Diagrama%20cinematico.png)
 
@@ -19,7 +19,7 @@ El diagrama cinemático muestra la configuración y los ejes de rotación del br
 
 ---
 
-## 📊 Espacio de Trabajo del Robot
+## Espacio de Trabajo del Robot
 
 ![Espacio de Trabajo del Robot](Espacio%20de%20trabajo.png)
 
@@ -27,7 +27,7 @@ El espacio de trabajo del brazo robótico ha sido determinado utilizando cálcul
 
 ---
 
-## 📉 Errores en la Cinemática Directa
+## Errores en la Cinemática Directa
 
 ![Errores Cinemática Directa](Errores%20cinematica%20directa.png)
 
@@ -35,7 +35,7 @@ Los errores en la cinemática directa fueron evaluados al comparar las posicione
 
 ---
 
-## 📈 Errores en la Cinemática Inversa
+## Errores en la Cinemática Inversa
 
 ![Errores Cinemática Inversa](Error%20Cinematica%20Inversa.png)
 
@@ -43,7 +43,7 @@ En el cálculo de la cinemática inversa, se realizó una secuencia donde el bra
 
 ---
 
-## 🔧 Especificaciones Técnicas
+## Especificaciones Técnicas
 
 - **Peso Total**: <500 g  
 - **Carga Máxima**: 100 g  
@@ -56,7 +56,7 @@ En el cálculo de la cinemática inversa, se realizó una secuencia donde el bra
 
 ---
 
-## 📦 Lista de Componentes
+## Lista de Componentes
 
 | Componente                 | Cantidad |
 |----------------------------|----------|
@@ -69,7 +69,7 @@ En el cálculo de la cinemática inversa, se realizó una secuencia donde el bra
 
 ---
 
-## ✨ Contribuciones
+## Contribuciones
 
 Francisco Javier Reynoso Concepción, Jorge Ignacio Terrazas R.  
 Docente: José Jesús Cabrera Pantoja  
