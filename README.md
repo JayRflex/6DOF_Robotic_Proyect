@@ -5,6 +5,20 @@ Este repositorio presenta el desarrollo, análisis y validación de un brazo rob
 
 ---
 
+## 🚀 Objetivo del Proyecto
+
+El objetivo principal de este proyecto fue desarrollar un brazo robótico económico y funcional para aplicaciones académicas y experimentales. El análisis de cinemática directa e inversa y la validación de errores permiten comprender las limitaciones de este tipo de robots.
+
+---
+
+## 🛠️ Diagrama Cinemático del Brazo
+
+![Diagrama Cinemático](Diagrama%20cinematico.png)
+
+El diagrama cinemático muestra la configuración y los ejes de rotación del brazo robótico de 6 GDL. Cada articulación está representada con su respectivo eje \(z\) y los vectores de traslación \(x\), de acuerdo con el modelo matemático utilizado.
+
+---
+
 ## 📊 Espacio de Trabajo del Robot
 
 ![Espacio de Trabajo del Robot](Espacio%20de%20trabajo.png)
@@ -29,14 +43,6 @@ En el cálculo de la cinemática inversa, se realizó una secuencia donde el bra
 
 ---
 
-## 🛠️ Diagrama Cinemático del Brazo
-
-![Diagrama Cinemático](Diagrama%20cinematico.png)
-
-El diagrama cinemático muestra la configuración y los ejes de rotación del brazo robótico de 6 GDL. Cada articulación está representada con su respectivo eje \(z\) y los vectores de traslación \(x\), de acuerdo con el modelo matemático utilizado.
-
----
-
 ## 🔧 Especificaciones Técnicas
 
 - **Peso Total**: <500 g  
@@ -56,30 +62,14 @@ El diagrama cinemático muestra la configuración y los ejes de rotación del br
 |----------------------------|----------|
 | Servomotores MG996R        | 6        |
 | Microcontrolador STM32     | 1        |
+| Controlador PCA9685        | 1        |
 | Eslabones tipo U           | 6        |
 | Eslabones tipo L           | 2        |
-| Tornillería y bases        | Variado  |
-
----
-
-## 🚀 Objetivo del Proyecto
-
-El objetivo principal de este proyecto fue desarrollar un brazo robótico económico y funcional para aplicaciones académicas y experimentales. El análisis de cinemática directa e inversa y la validación de errores permiten comprender las limitaciones de este tipo de robots.
-
----
-
-## 📚 Referencias
-
-1. **Concepto.de**. Robótica: historia, beneficios y características.  
-2. **Robotica10.com**. Importancia de la robótica en la actualidad.  
-3. **Adafruit**. PCA9685 Servo Driver y componentes adicionales.  
-4. **J. Craig**. Introducción a la Robótica: Mecánica y Control.  
+| Sargento de 30cm           | 1        |
 
 ---
 
 ## ✨ Contribuciones
 
 Francisco Javier Reynoso Concepción, Jorge Ignacio Terrazas R.  
-Profesor: José Jesús Cabrera Pantoja  
-
-¡Siéntete libre de contribuir al proyecto!
+Docente: José Jesús Cabrera Pantoja  
