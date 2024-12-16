@@ -15,7 +15,7 @@ El objetivo principal de este proyecto fue desarrollar un brazo robótico econó
 
 ![Diagrama Cinemático](Diagrama%20cinematico.png)
 
-El diagrama cinemático muestra la configuración y los ejes de rotación del brazo robótico de 6 GDL. Cada articulación está representada con su respectivo eje \(z\) y los vectores de traslación \(x\), de acuerdo con el modelo matemático utilizado.
+El diagrama cinemático muestra la configuración y los ejes de rotación del brazo robótico de 6 GDL.
 
 ---
 
